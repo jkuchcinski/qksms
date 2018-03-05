@@ -30,6 +30,7 @@
         <item>Jeff Gilfelt</item>
         <item>Melnykov Oleksandr</item>
         <item>ligi</item>
+        <item>Jaroslaw Kuchcinski</item>
     </string-array>
 
     <string-array name="contributor_githubs">
@@ -40,6 +41,7 @@
         <item>github.com/jgilfelt</item>
         <item>github.com/makovkastar</item>
         <item>github.com/ligi</item>
+        <item>github.com/jkuchcinski</item>
     </string-array>
 
     <string-array name="contributor_projects">
@@ -50,6 +52,7 @@
         <item>SystemBarTint</item>
         <item>FloatingActionButton</item>
         <item>SnackEngage</item>
+        <item>qksms</item>
     </string-array>
 
 </resources>

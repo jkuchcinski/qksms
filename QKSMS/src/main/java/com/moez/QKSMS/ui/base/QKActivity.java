@@ -267,9 +267,9 @@ public abstract class QKActivity extends AppCompatActivity {
             case R.id.menu_changelog:
                 DialogHelper.showChangelog(this);
                 return true;
-            case R.id.menu_donate:
-                DonationManager.getInstance(this).showDonateDialog();
-                return true;
+           // case R.id.menu_donate:
+           //     DonationManager.getInstance(this).showDonateDialog();
+           //     return true;
         }
 
         return super.onOptionsItemSelected(item);

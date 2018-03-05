@@ -31,7 +31,7 @@
   <!--Text shown under failed message count-->
   <string name="failed_messages_summary">Dotknij, aby wyświetlić</string>
   <!--QuickCompose notification title-->
-  <string name="quickcompose">Komponuj QK</string>
+  <string name="quickcompose">Utwóż nową wiadomość</string>
   <!--QuickCompose notification text-->
   <string name="quickcompose_detail">Kliknij, aby wysłać wiadomość</string>
   <!--Welcome screen intro button-->
